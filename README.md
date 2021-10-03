@@ -5,8 +5,14 @@
 #### titulo 4
 ##### titulo 5
 ###### titulo 6
+___
+<!-- paragrafos -->
+## paragrafos
+ para fazer um paragrafo colocamos um " " (espaço) no inicio da linha  
+ para quebrar a linha adicionamos dois " " (espaços) no fim da linha
+___
 <!-- divisores -->
-___ 
+___
 ### divisores
 usamos "___" para fazer uma divisão como acima
 ___
@@ -27,10 +33,10 @@ ___
 ### links
 [link](https://github.com/) que mostra para onde vai redirecionar
 ___
-[link](https://github.com/) nao mostra para onde vai redirecionar
+[link](https://github.com/ "igor") nao mostra para onde vai redirecionar
 <!-- imagens -->
 ### imagens
-![texto alt](https://images.unsplash.com/photo-1633193308927-d95701ab10f6?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+![texto alt](chrome://favicon/size/64@1x/https://github.com/)
 ___
 <!-- listas -->
 ### listas
@@ -56,7 +62,7 @@ ___
 <!-- check-list -->
 ### check list
 * [x] checado
-* [ ] nao checado
+* [] nao checado
 ___
 <!-- tabelas -->
 ### tabelas 
