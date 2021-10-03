@@ -30,7 +30,7 @@ ___
 [link](https://github.com/) nao mostra para onde vai redirecionar
 <!-- imagens -->
 ### imagens
-![texto alt](chrome://favicon/size/64@1x/https://github.com/)
+![texto alt](https://images.unsplash.com/photo-1633193308927-d95701ab10f6?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 ___
 <!-- listas -->
 ### listas
@@ -56,7 +56,7 @@ ___
 <!-- check-list -->
 ### check list
 * [x] checado
-* [] nao checado
+* [ ] nao checado
 ___
 <!-- tabelas -->
 ### tabelas 
